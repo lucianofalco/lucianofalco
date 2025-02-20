@@ -1,4 +1,4 @@
-# Hola, soy Backend Developer 👋  
+# Hola 👋  
 
 Soy estudiante avanzado (4.º año) de **Ingeniería Informática** en la **Facultad de Ciencias Exactas y Tecnología** de la **Universidad Nacional de Tucumán**, apasionado por el desarrollo de software **limpio, escalable y modular**, aplicando los principios **SOLID** como guía para construir soluciones eficientes y sostenibles.  
 
